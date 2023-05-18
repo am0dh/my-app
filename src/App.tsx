@@ -1,4 +1,3 @@
-import './App.css';
 import { Helper } from './Helpers/Helper';
 import { Wine } from './Helpers/Types';
 import Table from './Tables/Table';
